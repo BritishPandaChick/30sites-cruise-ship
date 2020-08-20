@@ -1,0 +1,193 @@
+/* Base Styles */
+body {
+    width: 100%;
+    margin: 0 auto;
+    color: #333;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* Header */
+#login {
+    padding: 15px 0;
+}
+
+#login ul li a {
+    padding-left: 15px;
+    color: #333;
+}
+
+header .navbar-brand {
+    font-family: 'Lobster Two', cursive;
+    font-size: 35px;
+}
+
+header ul li a {
+    font-size: 20px;
+}
+
+/* Announcements */
+#announcements {
+    padding: 10px 0;
+    border: 2px solid blue;
+}
+
+/* Banner */
+#banner {
+    background-image: url("https://cruisefever.net/wp-content/uploads/2019/05/HarmonyWM-120.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+#banner .group {
+    padding: 90px 0;
+}
+
+#banner .box {
+    background-color: #fff;
+    padding: 50px 0;
+}
+
+#banner h2 {
+    font-size: 45px;
+    padding: 15px 0;
+}
+
+/* Discover */
+#discover {
+    padding: 40px 0;
+}
+
+#discover h2 {
+    font-size: 45px;
+    padding-bottom: 15px;
+}
+
+#discover h3 {
+    font-size: 35px;
+}
+
+#discover p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+#discover button {
+    margin: 0 55px;
+}
+
+/* Why */
+#why {
+    background-color: blue;
+    padding: 40px 0;
+}
+
+#why h2 {
+    font-size: 45px;
+    padding-bottom: 15px;
+    color: #fff;
+}
+
+#why p {
+    font-size: 20px;
+    color: #fff;
+    padding: 15px 0;
+}
+
+#why .box {
+    padding: 40px 0;
+    background-color: green;
+    border: 2px solid #fff;
+}
+
+#why .box h4 {
+    color: #fff;
+    font-size: 25px;
+}
+
+/* Latest */
+#latest {
+    border: 2px solid blue;
+    padding: 40px 0;
+}
+
+#latest h3 {
+    font-size: 35px;
+}
+
+#latest p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+/* Plan */
+#plan {
+    padding: 40px 0;
+    background-color: blue;
+}
+
+#plan h2 {
+    font-size: 45px;
+    padding-bottom: 15px;
+    color: #fff;
+}
+
+#plan .box {
+    border: 2px solid #fff;
+    padding: 80px 0;
+}
+
+#plan h3 {
+    font-size: 35px;
+    color: #fff;
+}
+
+/* Assist */
+#assist {
+    padding: 20px 0;
+    border: 2px solid blue;
+}
+
+#assist p {
+    font-size: 16px;
+}
+
+/* Footer */
+#connected {
+    padding: 40px 0;
+}
+
+#connected h4 {
+    font-size: 20px;
+}
+
+#connected ul li {
+    padding-left: 15px;
+}
+
+#connected p {
+    font-size: 16px;
+}
+
+#connected a {
+    font-size: 16px;
+}
+
+/* Bottom Nav */
+#bottom-nav {
+    padding: 20px 0;
+}
+
+#bottom-nav ul li {
+    padding: 0 5px;
+    font-size: 15px;
+}
+
+/* Copyright */
+#copyright {
+    padding: 15px 0;
+}
+
+#copyright p {
+    font-size: 15px;
+}
